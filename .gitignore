@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 dataset/
 *.png
+*.docx
+*.zip
