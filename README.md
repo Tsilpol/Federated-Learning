@@ -1,11 +1,6 @@
-<h1 align="center">Federated Dictionary Learning 🤖</h1>
+<h1 align="center">Federated Dictionary Learning </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
-  <img src="https://img.shields.io/badge/Algorithm-FedAvg-success.svg" alt="FedAvg">
-  <img src="https://img.shields.io/badge/Algorithm-OMP%20%7C%20MOD-orange.svg" alt="OMP/MOD">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg" alt="Completed">
-</p>
+
 
 <p align="center">
   <em>A robust implementation of Federated Dictionary Learning simulating multiple clients utilizing Orthogonal Matching Pursuit (OMP) and the Method of Optimal Directions (MOD).</em>
@@ -18,7 +13,6 @@
 - [Key Features](#-key-features)
 - [Results & Visualizations](#-results--visualizations)
 - [Installation & Usage](#-installation--usage)
-- [Author](#-author)
 
 ---
 
